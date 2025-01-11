@@ -1,0 +1,4 @@
+John Doe|123 Main St, Springfield|A+
+Jane Smith|456 Elm St, Shelbyville|B-
+Alice Johnson|789 Oak Ave, Capital City|O+
+Bob Brown|321 Maple Rd, Riverdale|AB-
